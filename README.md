@@ -1,4 +1,4 @@
-# remcam-gensim-basic
+# remcam-gensim-jupyter
 Gensim basic Ubuntu 15.10
 
 For a slightly smaller image, change to:
